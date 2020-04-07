@@ -1,0 +1,8 @@
+{
+  "name": "gunit-contstants",
+  "version": "0.0.1",
+  "description": "A sample of a constants package",
+  "main": "index.js",
+  "author": "dizzy",
+  "license": "MIT"
+}
